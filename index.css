@@ -1,0 +1,12 @@
+#container {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#container #prompt {
+    width: 650px;
+    height: 50px;
+    font-size: 45px;
+    outline: none;
+    border-color: black;
+}
